@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profArr">
+        <item>Other</item>
+        <item>Student</item>
+        <item>Worker</item>
+        <item>Teacher</item>
+        <item>House wife</item>
+        <item>No work</item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="ageArr">
+
+        <item>12-22</item>
+        <item>24-45</item>
+        <item>45-60</item>
+
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="genderArr">
+        <item>Other</item>
+        <item>Male</item>
+        <item>Female</item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="maritalArr">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widowed</item>
+        <item>Divorced</item>
+
+        <!-- Add more items as needed -->
+    </string-array>
+</resources>
